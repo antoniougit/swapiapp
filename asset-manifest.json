@@ -1,8 +1,18 @@
 {
-  "main.css": "static/css/main.44bc70d9.css",
-  "main.css.map": "static/css/main.44bc70d9.css.map",
-  "main.js": "static/js/main.a82c17fc.js",
-  "main.js.map": "static/js/main.a82c17fc.js.map",
-  "static\\media\\124131.jpg": "static/media/124131.f3300170.jpg",
-  "static\\media\\Starjedi.ttf": "static/media/Starjedi.cc3019aa.ttf"
+  "files": {
+    "main.css": "/swapiapp/static/css/main.7d310d74.chunk.css",
+    "main.js": "/swapiapp/static/js/main.4a5dd105.chunk.js",
+    "main.js.map": "/swapiapp/static/js/main.4a5dd105.chunk.js.map",
+    "runtime~main.js": "/swapiapp/static/js/runtime~main.63b2edb3.js",
+    "runtime~main.js.map": "/swapiapp/static/js/runtime~main.63b2edb3.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/swapiapp/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.1a543e43.chunk.js": "/swapiapp/static/js/2.1a543e43.chunk.js",
+    "static/js/2.1a543e43.chunk.js.map": "/swapiapp/static/js/2.1a543e43.chunk.js.map",
+    "index.html": "/swapiapp/index.html",
+    "precache-manifest.51f154f3e4b3c11c7802d8c54ba1b170.js": "/swapiapp/precache-manifest.51f154f3e4b3c11c7802d8c54ba1b170.js",
+    "service-worker.js": "/swapiapp/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/swapiapp/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.7d310d74.chunk.css.map": "/swapiapp/static/css/main.7d310d74.chunk.css.map",
+    "static/media/App.css": "/swapiapp/static/media/Starjedi.cc3019aa.ttf"
+  }
 }
