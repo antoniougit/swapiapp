@@ -63,7 +63,7 @@ class App extends Component {
   render() {
     const {results,searchfield,route} = this.state;
     if(this.state.route !== 'selection'){
-      fetch(`https://swapi.co/api/${this.state.route}/`)
+      fetch(`https://swapi.dev/api/${this.state.route}/`)
     .then(response => response.json())
     .then(data => this.setState({results:data.results}));
     }
