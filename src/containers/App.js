@@ -29,19 +29,19 @@ class App extends Component {
   // TODO - Fetch all pages
   // componentDidMount(){
   //   const peopleURLS=[
-  //   "https://swapi.co/api/people/",
-  //   "https://swapi.co/api/people/?page=2",
-  //   "https://swapi.co/api/people/?page=3",
-  //   "https://swapi.co/api/people/?page=4",
-  //   "https://swapi.co/api/people/?page=5",
-  //   "https://swapi.co/api/people/?page=6",
-  //   "https://swapi.co/api/people/?page=7",
-  //   "https://swapi.co/api/people/?page=8",
+  //   "https://swapi.dev/api/people/1",
+  //   "https://swapi.dev/api/people/2",
+  //   "https://swapi.dev/api/people/3",
+  //   "https://swapi.dev/api/people/4",
+  //   "https://swapi.dev/api/people/5",
+  //   "https://swapi.dev/api/people/6",
+  //   "https://swapi.dev/api/people/7",
+  //   "https://swapi.dev/api/people/8",
   //   ];
 
   //   Promise.all(peopleURLS.map(async url => {
   //     const resp = await fetch(url);
-  //     const mainResp =await resp.json();
+  //     const mainResp = await resp.json();
   //     let lastResp = this.state.people;
   //     lastResp.push(mainResp.results);
   //     var sortedArrayOfPeople = lastResp
